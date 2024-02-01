@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://t3.ftcdn.net/jpg/05/99/53/58/360_F_599535831_pwQFVG0qtf6ksLXeVTnUwFMvoW5H0WiS.jpg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  /* width: 10vh; */
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+}
+button {
+  background-color:red;
+  display: flex;
+  height: 20vh;
+  width: 20vh;
+  align-items: center;
+  font-size: 200%;
+  justify-content: center;
+}
